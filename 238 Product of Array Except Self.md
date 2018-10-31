@@ -25,7 +25,6 @@ pre[i]=pre[i-1]*nums[i-1];
 next[i]=next[i+1]*nums[i+1];
 ```
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 最后再来一个for 计算出每一个pre和next的乘积。
 
@@ -52,4 +51,3 @@ public:
 };
 ```
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
